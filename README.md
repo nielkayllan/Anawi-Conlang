@@ -167,8 +167,173 @@ O Anawi é:
 - partículas com escopo discursivo independente
 
 ---
+
 # 4.2 MORFOLOGIA
+
 # 4.2.1 MORFOLOGIA VERBAL
+
+# 4.2.1.1 VISÃO GERAL DA MORFOLOGIA VERBAL
+
+O sistema verbal do Anawi é modular e baseado em camadas. Cada verbo não é uma unidade simples, mas um evento estruturado por componentes que se organizam em ordem fixa.
+
+---
+
+# 4.2.1.1.1 Estrutura geral do verbo
+
+A forma verbal pode ser entendida como:
+
+[PREFIXO (voz / hierarquia / sujeito)] + [RAIZ] + [ADVÉRBIO] + [MARCA DE MODO] + [FUTURO] + [NEGAÇÃO]
+
+Nem todas as camadas aparecem sempre, mas a ordem estrutural é fixa.
+
+---
+
+# 4.2.1.1.2 Transitividade e hierarquia
+
+O sistema transitivo é regulado por hierarquia de pessoa:
+
+1ª pessoa > 2ª pessoa > 3ª pessoa
+
+## 4.2.1.1.2.1 Quando S > O (sujeito domina objeto)
+
+O verbo usa prefixos portmanteau que condensam sujeito + objeto:
+
+- ma- → 1 → 2
+- na- → 1 (excl) → 3
+- sa- → 1 (incl) → 3
+- ka- → 2 → 3
+- ta- → 3 → 3 animada
+- ra- → 3 → 3 inanimada
+
+→ Não há sufixo de objeto.
+
+## 4.2.1.1.2.2 Quando S < O (objeto domina sujeito)
+
+- sujeito é expresso por pronome externo
+- verbo marca apenas o objeto
+
+Sufixos de objeto:
+
+- (r)in → me
+- (r)es → te
+- (r)i → o/a
+- (r)am → nos (exclusivo)
+- (r)is → nos (inclusivo)
+
+O -r- é elemento de ligação morfológica, caso a raiz termine em vogal.
+
+---
+
+# 4.2.1.1.3 Modos verbais
+
+## 4.2.1.1.3.1 Indicativo
+
+- ação real
+- não marcado
+
+## 4.2.1.1.3.2 Gerundivo
+
+- processo / ação em andamento ou finalidade
+- marcado no final do verbo
+
+## 4.2.1.1.3.3 Optativo
+
+- desejo / vontade
+- aparece antes do sujeito
+
+## 4.2.1.1.3.4 Imperativo
+
+- comando
+- marcado no final
+
+## 4.2.1.1.3.5 Condicional
+
+- hipótese dependente
+- marcado no final
+
+## 4.2.1.1.3.6 Circunstancial
+
+- indica circunstância
+- marcado no final
+
+---
+
+# 4.2.1.1.4 Futuro
+
+- só ocorre no indicativo e gerundivo
+- sempre na posição final do verbo
+- parte da morfologia interna
+
+Função:
+
+- desloca o evento para o futuro
+
+---
+
+# 4.2.1.1.5 Negação
+
+- não é única
+- varia conforme o modo verbal
+- cada modo tem seu próprio sistema negativo
+
+A negação pode coexistir com futuro e modos, respeitando suas restrições estruturais.
+
+---
+
+# 4.2.1.1.6 Vozes verbais
+
+## 4.2.1.1.6.1 Causativa
+
+- adiciona um agente causador
+- posicionada antes da raiz, após o sujeito
+- aumenta valência verbal
+
+## 4.2.1.1.6.2 Causativa-comitativa
+
+- “fazer o objeto fazer algo consigo mesmo”
+- posicionada antes da raiz, após o sujeito
+
+## 4.2.1.1.6.3 Recíproca
+
+- marcada pelo morfema -u
+- substitui o marcador de objeto
+- indica ação mútua entre participantes
+
+---
+
+# 4.2.1.1.7 Advérbios
+
+- sempre aparecem imediatamente após a raiz
+- modificam diretamente o núcleo do evento
+
+## 4.2.1.1.7.1 Funções:
+
+- intensidade
+- modo de ação
+- duração
+- repetição
+- qualidade do evento
+
+---
+
+# 4.2.1.1.8 Organização conceitual
+
+O sistema verbal do Anawi opera como um conjunto de camadas:
+
+- Hierarquia → quem controla a ação
+- Voz → quem causa a ação
+- Raiz → o evento em si
+- Advérbio → como o evento ocorre
+- Modo → como o evento é interpretado na realidade
+- Futuro → quando o evento ocorre
+- Negação → se o evento ocorre
+
+---
+
+# 4.2.1.1.9 Síntese
+
+O verbo no Anawi não é linear simples, mas uma estrutura de interpretação múltipla do evento. Cada camada adiciona uma dimensão semântica e sintática independente, mas organizada em uma ordem fixa de construção.
+
 # 4.2.2 MORFOLOGIA NOMINAL
 # 4.3 SISTEMA DE PRONOMES
 # 4.4 CASOS GRAMATICAIS
