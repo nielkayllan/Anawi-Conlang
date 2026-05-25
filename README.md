@@ -688,6 +688,216 @@ Os verbos transitivos no Anawi não são fixos em sua realização morfológica.
 
 *Nunimángite - nos (inc.)*
 
+# 4.2.1.2.3 DOS VERBOS INTRANSITIVOS ATIVOS/DINÂMICOS
+
+Os verbos intransitivos ativos do Anawi são aqueles que expressam ações ou eventos com apenas um participante: o sujeito. Não há objeto e não há hierarquia transitiva envolvida.
+
+---
+
+# 4.2.1.2.3.1 Estrutura geral
+
+A forma básica é:
+
+[PREFIXO INTRANSITIVO] + RAIZ (+ ajustes fonológicos)
+
+---
+
+# 4.2.1.2.3.2 Prefixos intransitivos ativos
+
+- y-, h- → eu
+- e(r)- → tu/vós
+- u-, w- → ele/ela/eles/elas
+- o(r)- → isso
+- a(r)- → nós exclusivo
+- i-, j- → nós inclusivo
+
+Esses prefixos marcam diretamente o sujeito do evento.
+
+---
+
+# 4.2.1.2.3.3 Regra de ligação fonológica (aplicada aos intransitivos)
+
+Quando a raiz começa em vogal, ocorre ajuste entre prefixo e raiz.
+
+Regra geral:
+
+- surge ligação para evitar hiato
+
+## 4.2.1.2.3.3.1 Comportamento dos prefixos:
+
+### 4.2.1.2.3.3.1.1 Prefixos que perdem a vogal
+
+- y- + V → h + V
+- u- + V → w + V
+- i- + V → j + V
+
+### 4.2.1.2.3.3.1.2 Prefixos que mantêm a vogal
+
+- e- + V → e-r-V
+- o- + V → o-r-V
+- a- + V → a-r-V
+
+## 4.2.1.2.3.3.1.3 Resumo:
+
+- y/u/i → apagamento vocálico + transformação consonantal
+- e/o/a → mantém vogal + r de ligação
+
+---
+
+# 4.2.1.2.3.4 Verbo exemplar 1: ruchi (ver)
+
+Significado: perceber visualmente
+
+## Conjugação intransitiva
+
+**Não futuro positivo**
+
+*yruchi (eu)*
+
+*eruchi (tu/vós)*
+
+*uruchi (ele, ela, eles, elas)*
+
+*oruchi (isso)*
+
+*aruchi (nós excl.)*
+
+*iruchi (nós incl.)*
+
+**Futuro positivo**
+
+*yruchíde (eu)*
+
+*eruchíde (tu/vós)*
+
+*uruchíde (ele, ela, eles, elas)*
+
+*oruchíde (isso)*
+
+*aruchíde (nós excl.)*
+
+*iruchíde (nós incl.)*
+
+**Não futuro negativo**
+
+*nyruchi (eu)*
+
+*neruchi (tu/vós)*
+
+*nuruchi (ele, ela, eles, elas)*
+
+*noruchi (isso)*
+
+*naruchi (nós excl.)*
+
+*niruchi (nós incl.)*
+
+**Futuro negativo**
+
+*nyruchíde (eu)*
+
+*neruchíde (tu/vós)*
+
+*nuruchíde (ele, ela, eles, elas)*
+
+*noruchíde (isso)*
+
+*naruchíde (nós excl.)*
+
+*niruchíde (nós incl.)*
+
+---
+
+# 4.2.1.2.3.5 Verbo exemplar 2: acha (correr)
+
+Significado: correr
+
+Como começa em vogal, aplica regras de ligação.
+
+## Conjugação
+
+**Não futuro positivo**
+
+*hacha (eu)*
+
+*eracha (tu/vós)*
+
+*wacha (ele, ela, eles, elas)*
+
+*oracha (isso)*
+
+*aracha (nós excl.)*
+
+*jacha (nós incl.)*
+
+**Futuro positivo**
+
+*hacháde (eu)*
+
+*eracháde (tu/vós)*
+
+*wacháde (ele, ela, eles, elas)*
+
+*oracháde (isso)*
+
+*aracháde (nós excl.)*
+
+*jacháde (nós incl.)*
+
+**Não futuro negativo**
+
+*nyacha (eu)*
+
+*neracha (tu/vós)*
+
+*nwacha (ele, ela, eles, elas)*
+
+*noracha (isso)*
+
+*naracha (nós excl.)*
+
+*nhacha (nós incl.)*
+
+**Futuro negativo**
+
+*nyacháde (eu)*
+
+*neracháde (tu/vós)*
+
+*nwacháde (ele, ela, eles, elas)*
+
+*noracháde (isso)*
+
+*naracháde (nós excl.)*
+
+*nhacháde (nós incl.)*
+
+---
+
+# 4.2.1.2.3.6 Diferença entre os verbos intransitivos
+
+## ruchi
+
+- não exige forte reestruturação fonológica
+- comportamento mais direto
+
+## achá
+
+- ativa plenamente o sistema de ligação
+- mostra alternância y/u/i vs e/o/a
+
+---
+
+# 4.2.1.2.3.7 Ideia central do sistema
+
+Os verbos intransitivos ativos do Anawi são eventos de um único participante, mas sua forma depende da interação fonológica entre prefixo e raiz.
+
+Assim, o sistema não é apenas sintático, mas também morfofonológico:
+
+- pessoa marca o sujeito
+- raiz define o evento
+- fonologia ajusta a interface entre os dois
+
 # 4.2.2 MORFOLOGIA NOMINAL
 # 4.3 SISTEMA DE PRONOMES
 # 4.4 CASOS GRAMATICAIS
