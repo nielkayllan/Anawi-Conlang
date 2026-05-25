@@ -165,3 +165,13 @@ O Anawi é:
 - ordem relativamente livre
 - interpretação garantida por morfologia, não por posição
 - partículas com escopo discursivo independente
+
+---
+# 4.2 MORFOLOGIA
+# 4.2.1 MORFOLOGIA VERBAL
+# 4.2.2 MORFOLOGIA NOMINAL
+# 4.3 SISTEMA DE PRONOMES
+# 4.4 CASOS GRAMATICAIS
+# 4.5 PARTÍCULAS
+# 4.6 COMPOSIÇÕES
+# 4.7 NUMERAIS
