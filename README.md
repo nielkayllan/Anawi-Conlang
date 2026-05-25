@@ -334,7 +334,9 @@ O sistema verbal do Anawi opera como um conjunto de camadas:
 
 O verbo no Anawi não é linear simples, mas uma estrutura de interpretação múltipla do evento. Cada camada adiciona uma dimensão semântica e sintática independente, mas organizada em uma ordem fixa de construção.
 
-# 4.2.1.2.1 DA TRANSITIVIDADE
+# 4.1.1.2 DA TRANSITIVIDADE
+
+# 4.2.1.2.1 VISÃO GERAL DA TRANSITIVIDADE
 A transitividade no Anawi não é apenas uma relação entre sujeito e objeto, mas um sistema hierárquico que reorganiza a estrutura do verbo dependendo da posição relativa dos participantes na escala de pessoa.
 
 ---
@@ -497,6 +499,194 @@ A transitividade no Anawi não é apenas sintática, mas hierárquica e cognitiv
 - Estativos: estados sem ação
 
 O sistema inteiro reorganiza o verbo dependendo de quantos participantes existem e como eles se relacionam na hierarquia de pessoa.
+
+# 4.2.1.2.2 DOS VERBOS TRANSITIVOS
+
+Nos verbos transitivos do Anawi, o objeto é obrigatório em todas as construções verbais transitivas.
+
+Os verbos transitivos no Anawi são aqueles que envolvem dois participantes: um sujeito e um objeto. Sua estrutura não é fixa e depende diretamente da hierarquia de pessoa (1ª > 2ª > 3ª), o que determina se haverá fusão morfológica ou separação analítica.
+
+---
+
+# 4.2.1.2.2.1 Estrutura geral
+
+Um verbo transitivo pode ocorrer de duas formas principais:
+
+## 4.2.1.2.2.1.1 Forma hierárquica (S > O)
+
+Quando o sujeito está acima do objeto na hierarquia de pessoa, ocorre fusão morfológica:
+
+[PREFIXO PORTMANTEAU] + RAIZ + (ADVÉRBIO)
+
+- Não há sufixo de objeto
+- A relação sujeito-objeto está condensada no prefixo
+
+---
+
+## 4.2.1.2.2.1.2 Forma não hierárquica (S < O)
+
+Quando o objeto é hierarquicamente superior ao sujeito:
+
+PRONOME DO SUJEITO + RAIZ + (ADVÉRBIO) + SUFIXO DE OBJETO
+
+Sufixos de objeto:
+
+- (r)in → me
+- (r)es → te/vos
+- (r)i → o/a
+- (r)am → nos (exclusivo)
+- (r)is → nos (inclusivo)
+
+- O sujeito não é marcado no verbo
+- O verbo apenas indica o objeto
+
+---
+
+# 4.2.1.2.2.2 Prefixos portmanteau (S > O)
+
+- ma(r)- → 1 → 2
+- na(r)- → 1 → 3
+- sa(r)- → 2 (incl) → 3
+- ka(r)- → 2 → 3
+- ta(r)- → 3 → 3 (anim)
+- ra(r)- → 3 → 3 (inanim)
+
+---
+
+# 4.2.1.2.2.3 Ordem interna do verbo transitivo
+
+A estrutura pode ser representada como:
+
+[SUJEITO (implícito ou explícito)] + [VOZ] + [PREFIXO HIERÁRQUICO OU BASE VERBAL] + [RAIZ] + [ADVÉRBIO]
+
+---
+
+# 4.2.1.2.2.4 Vozes no transitivo
+
+## 4.2.1.2.2.4.1 Causativa
+
+- adiciona um agente causador
+- posição: antes da raiz, após o sujeito
+
+## 4.2.1.2.2.4.2 Anti-causativa
+
+- evento recai sobre o sujeito
+- mesma posição da causativa
+
+## 4.2.1.2.2.4.2 Recíproca
+
+- substitui o morfema de objeto
+- indica ação mútua
+
+---
+
+# 4.2.1.2.2.5 Observação estrutural
+
+Os verbos transitivos no Anawi não são fixos em sua realização morfológica. Eles se reorganizam conforme:
+
+- hierarquia de pessoa
+- tipo de voz
+- presença ou ausência de objeto explícito
+
+---
+
+## 4.2.1.2.2.6 Exemplo com o verbo nimang (ensinar) no indicativo.
+
+**Indicativo não-futuro positivo:**
+
+*Manimang - (1>2) eu te/vos; nós te/vos*
+
+*Nanimang - (1>3) eu o, nós (exc.) o*
+
+*Sanimang - (1>2>3) nós (inc.) o*
+
+*Kanimang - (2>3) tu o, vós o*
+
+*Tanimang - (3>3) el@(s) o*
+
+*Ranimang - (3>3) el@(s) o*
+
+*Nimángin - me*
+
+*Nimánge - te, vos*
+
+*Nimángi - o*
+
+*Nimángam - nos (exc.)*
+
+*Nimángis - nos (inc.)*
+
+**Indicativo não-futuro negativo:**
+
+*Numanimang - (1>2) eu te/vos; nós te/vos*
+
+*Nunanimang - (1>3) eu o, nós (exc.) o*
+
+*Nuzanimang - (1>2>3) nós (inc.) o*
+
+*Nuganimang - (2>3) tu o, vós o*
+
+*Nudanimang - (3>3) el@(s) o*
+
+*Nuranimang - (3>3) el@(s) o*
+
+*Nunimángin - me*
+
+*Nunimánge - te, vos*
+
+*Nunimángi - o*
+
+*Nunimángam - nos (exc.)*
+
+*Nunimángis - nos (inc.)*
+
+**Indicativo futuro positivo:**
+
+*Manimáne - (1>2) eu te/vos; nós te/vos*
+
+*Nanimáne - (1>3) eu o, nós (exc.) o*
+
+*Sanimáne - (1>2>3) nós (inc.) o*
+
+*Kanimáne - (2>3) tu o, vós o*
+
+*Tanimáne - (3>3) el@(s) o*
+
+*Ranimáne - (3>3) el@(s) o*
+
+*Nimángine - me*
+
+*Nimángede - te, vos*
+
+*Nimángide - o*
+
+*Nimángane - nos (exc.)*
+
+*Nimángite - nos (inc.)*
+
+**Indicativo futuro negativo:**
+
+*Numanimáne - (1>2) eu te/vos; nós te/vos*
+
+*Nunanimáne - (1>3) eu o, nós (exc.) o*
+
+*Nuzanimáne - (1>2>3) nós (inc.) o*
+
+*Nuganimáne - (2>3) tu o, vós o*
+
+*Nudanimáne - (3>3) el@(s) o*
+
+*Nuranimáne - (3>3) el@(s) o*
+
+*Nunimángine - me*
+
+*Nunimángede - te, vos*
+
+*Nunimángide - o*
+
+*Nunimángane - nos (exc.)*
+
+*Nunimángite - nos (inc.)*
 
 # 4.2.2 MORFOLOGIA NOMINAL
 # 4.3 SISTEMA DE PRONOMES
