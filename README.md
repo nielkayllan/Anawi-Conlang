@@ -334,6 +334,170 @@ O sistema verbal do Anawi opera como um conjunto de camadas:
 
 O verbo no Anawi não é linear simples, mas uma estrutura de interpretação múltipla do evento. Cada camada adiciona uma dimensão semântica e sintática independente, mas organizada em uma ordem fixa de construção.
 
+# 4.2.1.2.1 DA TRANSITIVIDADE
+A transitividade no Anawi não é apenas uma relação entre sujeito e objeto, mas um sistema hierárquico que reorganiza a estrutura do verbo dependendo da posição relativa dos participantes na escala de pessoa.
+
+---
+
+# 4.2.1.2.1.1 Estrutura geral da transitividade
+
+O sistema verbal do Anawi divide-se em três grandes tipos:
+
+- Verbos transitivos (com dois participantes)
+- Verbos intransitivos ativos (um participante dinâmico)
+- Verbos estativos (um participante como estado)
+
+Cada tipo tem comportamento morfológico próprio.
+
+---
+
+# 4.2.1.2.1.2 Hierarquia de pessoa
+
+A base de todo o sistema transitivo é a hierarquia fixa:
+
+1ª pessoa > 2ª pessoa > 3ª pessoa
+
+Essa hierarquia determina como o verbo será construído quando há interação entre dois participantes.
+
+---
+
+# 4.2.1.2.1.3 Transitivos e a lógica hierárquica
+
+Nos verbos transitivos, a relação entre sujeito (S) e objeto (O) define duas estratégias morfológicas.
+
+---
+
+## 4.2.1.2.1.3.1 Quando S > O (sujeito domina objeto)
+
+Quando o sujeito está acima do objeto na hierarquia, ocorre fusão morfológica:
+
+O verbo usa prefixos portmanteau que condensam sujeito e objeto em uma única forma.
+
+Prefixos principais:
+
+- ma- → 1ª pessoa singular → 2ª pessoa
+- na- → 1ª pessoa exclusiva → 3ª pessoa
+- sa- → 1ª pessoa inclusiva → 3ª pessoa
+- ka- → 2ª pessoa → 3ª pessoa
+- ta- → 3ª pessoa animada → 3ª pessoa animada
+- ra- → 3ª pessoa animada → 3ª pessoa inanimada
+
+Características:
+
+- não há sufixo de objeto
+- a relação inteira está no prefixo verbal
+- alta fusão morfológica
+
+---
+
+## 4.2.1.2.1.3.2 Quando S < O (objeto domina sujeito)
+
+Quando o objeto é hierarquicamente superior ao sujeito:
+
+- o sujeito é expresso por pronome independente
+- o verbo não marca sujeito internamente
+- o verbo marca apenas o objeto
+
+Sufixos de objeto:
+
+- (r)in → me
+- (r)es → te
+- (r)i → o/a
+- (r)am → nos (exclusivo)
+- (r)is → nos (inclusivo)
+
+O elemento -r- funciona como conector morfológico entre raiz e sufixo, caso a raiz termine em vogal.
+
+Características:
+
+- estrutura mais analítica
+- menor fusão morfológica
+
+---
+
+# 4.2.1.2.1.4 Verbos intransitivos ativos
+
+Os intransitivos ativos descrevem eventos com apenas um participante dinâmico.
+
+Eles são regulares e usam prefixos pessoais diretos:
+
+- y-, h-→ eu
+- e(r)- → tu/vós
+- u-, w- → ele/ela/eles
+- o(r)- → isso
+- a(r)- → nós exclusivo
+- i-, j- → nós inclusivo
+
+Características:
+
+- não há objeto
+- não há hierarquia
+- sujeito é marcado diretamente no verbo
+- expressam ações ou eventos
+
+Estrutura:
+
+[PREFIXO INTRANSITIVO] + RAIZ
+
+---
+
+# 4.2.1.2.1.5 Verbos estativos
+
+Os verbos estativos não expressam ação, mas estado ou condição.
+
+Prefixos estativos:
+
+- ni-, nh- → eu
+- ka(r)- → tu/vós
+- su-, sw- → ele/eles
+- to(r)- → isso
+- ma(r)- → nós exclusivo
+- si-, sh- → nós inclusivo
+
+Características:
+
+- ausência de ação
+- ausência de hierarquia transitiva
+- descrevem estados permanentes ou condições
+
+Estrutura:
+
+[PREFIXO ESTATIVO] + RAIZ
+
+---
+
+# 4.2.1.2.1.6 Comparação dos três sistemas
+
+## 4.2.1.2.1.6.1 Transitivo
+
+- dois participantes
+- hierarquia ativa (1 > 2 > 3)
+- fusão ou separação morfológica
+
+## 4.2.1.2.1.6.2 Intransitivo ativo
+
+- um participante
+- ação dinâmica
+- concordância direta
+
+## 4.2.1.2.1.6.3 Estativo
+
+- um participante
+- estado ou qualidade
+- sem dinâmica de ação
+
+---
+
+# 4.2.1.2.1.7 Ideia central do sistema
+
+A transitividade no Anawi não é apenas sintática, mas hierárquica e cognitiva:
+
+- Transitivos: relações de poder entre participantes
+- Intransitivos: eventos centrados no sujeito
+- Estativos: estados sem ação
+
+O sistema inteiro reorganiza o verbo dependendo de quantos participantes existem e como eles se relacionam na hierarquia de pessoa.
+
 # 4.2.2 MORFOLOGIA NOMINAL
 # 4.3 SISTEMA DE PRONOMES
 # 4.4 CASOS GRAMATICAIS
