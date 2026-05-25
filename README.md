@@ -1,6 +1,6 @@
 # Anawi-Conlang
-#4 — Gramática
-#4.1 – SINTAXE
+# 4 — Gramática
+# 4.1 – SINTAXE
 ## 4.1.1 Ordem básica: SVO (mas não rígida)
 
 O Anawi tem uma **ordem neutra predominante SVO**:
