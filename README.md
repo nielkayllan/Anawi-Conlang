@@ -1318,7 +1318,212 @@ O circunstancial reduz a proeminência discursiva do verbo e o integra ao pano d
 | Circunstancial | contextualização circunstancial |
 
 # 4.2.1.3.2 DO MODO INDICATIVO
+
 # 4.2.1.3.2.1 VISÃO GERAL DO MODO INDICATIVO
+
+O **indicativo** é o modo verbal básico do Anawi. Ele expressa eventos apresentados como reais, concretos, existentes ou afirmados pelo falante.
+
+É o modo utilizado em:
+
+- afirmações
+- descrições
+- perguntas neutras
+- narração
+- declarações simples
+
+Todos os tipos verbais podem ocorrer no indicativo:
+
+- intransitivos ativos
+- intransitivos estativos
+- transitivos
+
+---
+
+# 4.2.1.3.2.1.1 Estrutura Geral
+
+A estrutura do verbo no indicativo depende da natureza verbal.
+
+## 4.2.1.3.2.1.1.2 Intransitivos ativos
+
+```
+(negação) + prefixo ativo + raiz + (tempo)
+```
+
+## 4.2.1.3.2.1.1.3 Intransitivos estativos
+
+```
+(negação) + prefixo estativo + raiz + (tempo)
+```
+
+## 4.2.1.3.2.1.1.4 Transitivos
+
+```
+(negação) + prefixo verbal + raiz + (objeto seguindo hierarquia) + (tempo)
+```
+
+---
+
+# 4.2.1.3.2.1.2 Verbos Intransitivos Ativos
+
+Os verbos intransitivos ativos expressam:
+
+- ação
+- movimento
+- atividade
+- evento dinâmico
+
+Eles usam os prefixos ativos.
+
+## 4.2.1.3.2.1.2.1 Prefixos ativos
+
+| Pessoa | Prefixo pré-consonantal positivo | Prefixo pré-vocálico positivo | Prefixo pré-consonantal negativo | Prefixo pré-vocálico negativo |
+| --- | --- | --- | --- | --- |
+| eu | y- | h- | ny- | ny- |
+| tu/vós | e- | er- | ne- | ner- |
+| el@(s) | u- | w- | nu- | nw- |
+| isso | o- | or- | no- | nor- |
+| nós exclusivo | a- | ar- | na- | nar- |
+| nós inclusivo | i- | j- | ni- | nh- |
+
+---
+
+# 4.2.1.3.2.1.3 Verbos Intransitivos Estativos
+
+Os verbos estativos expressam:
+
+- estado
+- condição
+- qualidade
+- sensação
+
+Eles usam os prefixos estativos.
+
+## 4.2.1.3.2.1.3.1 Prefixos estativos
+
+| Pessoa | Prefixo pré-consonantal positivo | Prefixo pré-vocálico positivo | Prefixo pré-consonantal negativo | Prefixo pré-vocálico negativo |
+| --- | --- | --- | --- | --- |
+| eu | ni- | nh- | nuni- | nunh- |
+| tu/vós | ka- | kar- | nuga- | nugar- |
+| el@(s) | su- | sw- | nuzu- | nuzw- |
+| isso | to- | tor- | nudo- | nudor- |
+| nós exclusivo | ma- | mar- | numa- | numar- |
+| nós inclusivo | si- | sh- | nuzi- | nuj- |
+
+---
+
+# 4.2.1.3.2.1.4 Verbos Transitivos
+
+Os verbos transitivos possuem um portmonteau (sujeito e objeto simultaneamente) ou objeto gramatical, de acordo com hierarquia.
+
+A estrutura verbal recebe:
+
+- prefixo portmonteau
+- raiz verbal
+- sufixo de objeto
+
+## 4.2.1.3.2.1.4.1 Prefixos portmonteau
+
+| Portmonteau | Prefixo pré-vocálico positivo | Prefixo pré-consonantal positivo | Prefixo pré-vocálico negativo | Prefixo pré-consonantal positivo negativo |
+| --- | --- | --- | --- | --- |
+| eu/nós exc > te/vos | mar- | ma- | numar- | numa- |
+| eu/nós exc > o | nar- | na- | nunar- | nuna- |
+| nós inc > o | sar- | sa- | nuzar- | nuza- |
+| tu/vós > o | kar- | ka- | nugar- | nuga- |
+| ele anim > o anim | tar- | ta- | nudar- | nuda- |
+| ele anim > o inanim | rar- | ra- | nurar- | nura- |
+
+## 4.2.1.3.2.1.4.2 Sufixos de objeto
+
+| Sufixo | Sufixo pós-consonantal não futuro | Sufixo pós-vocálico não futuro | Sufixo pós-consonantal futuro | Sufixo pós-vocálico positivo futuro |
+| --- | --- | --- | --- | --- |
+| me | -in | -rin | -ine | -rine |
+| te/vos | -e | -re | -ede | -rede |
+| o/os | -i | -ri | -ide | -ride |
+| nos exc | -am | -ram | -ane | -rane |
+| nos inc | -is | -ris | -ite | -rite |
+
+---
+
+# 4.2.1.3.2.1.5 Tempo
+
+O indicativo distingue pelo menos:
+
+- não-futuro (engloba passado e presente)
+- futuro
+
+O não-futuro normalmente é não marcado.
+
+---
+
+# 4.2.1.3.2.1.5.1 Futuro
+
+O futuro é marcado pelo sufixo:
+
+```
+-te
+```
+
+Esse sufixo sofre adaptações fonológicas dependendo da forma final da raiz ou sufixo de objeto verbal.
+
+## 4.2.1.3.2.1.6 Estrutura
+
+```
+verbo + -te
+```
+
+## 4.2.1.3.2.1.6.1 Exemplos conceituais
+
+- “eu irei”
+- “ele fará”
+- “nós veremos”
+
+---
+
+# 4.2.1.3.2.1.7 Polaridade
+
+O indicativo distingue:
+
+- positivo
+- negativo
+
+A negação é marcada pelo prefixo:
+
+```
+n(u)-
+```
+
+A vogal varia conforme o ambiente fonológico.
+
+---
+
+# 4.2.1.3.2.1.7.1 Estrutura da Negação
+
+A negação ocorre antes do complexo verbal.
+
+## 4.2.1.3.2.1.7.2 Estrutura
+
+```
+negativo + verbo
+```
+
+ou
+
+```
+negativo + prefixo pessoal + raiz
+```
+
+dependendo da análise morfológica adotada.
+
+---
+
+# 4.2.1.3.2.1.8 Papel Sintático
+
+O indicativo é o modo padrão das orações independentes.
+
+Ele pode funcionar sozinho como núcleo verbal completo.
+
+Os demais modos verbais representam derivações funcionais sobre essa base principal
+
 # 4.2.1.3.2.2 CONJUGAÇÃO EXEMPLAR NO INDICATIVO
 
 # 4.2.1.3.3 DO MODO GERUNDIVO
